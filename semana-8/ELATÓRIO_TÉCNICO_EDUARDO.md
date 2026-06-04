@@ -1,37 +1,3 @@
-<style>
-body {
-    background-color: #0d1117;
-    color: #c9d1d9;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-h1, h2, h3 {
-    color: #58a6ff;
-    border-bottom: 1px solid #30363d;
-    padding-bottom: 10px;
-}
-h1 { color: #ffffff; text-align: center; text-transform: uppercase; letter-spacing: 2px; }
-h2 { color: #238636; } /* Verde Kensei */
-strong { color: #58a6ff; }
-hr { border: 0; border-top: 1px solid #30363d; margin: 20px 0; }
-code { background-color: #161b22; color: #ff7b72; padding: 2px 4px; border-radius: 4px; }
-blockquote {
-    border-left: 4px solid #238636;
-    background: #161b22;
-    padding: 10px 20px;
-    font-style: italic;
-}
-.status-badge {
-    background-color: #238636;
-    color: white;
-    padding: 5px 15px;
-    border-radius: 20px;
-    font-size: 0.8em;
-    font-weight: bold;
-}
-</style>
-
----
-
 # 🛡️ Executive Technical Report: AI Foundations for Cybersecurity
 **Author:** Eduardo Andrade | **Specialization:** AI-First Security Analyst  
 **Date:** June 03, 2026 | **Institution:** Kensei CyberSec Lab  
